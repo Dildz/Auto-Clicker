@@ -1,1 +1,0 @@
-pyinstaller --onefile --icon=left_click.ico --name="Auto Clicker" auto_clicker.py
